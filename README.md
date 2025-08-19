@@ -27,4 +27,26 @@ git clone https://github.com/Naan3/ExpenseTracker.git
 ```bash
 pip install pandas matplotlib tabulate colorama
 ```
-3. Run the program 
+3. Run the program
+
+## 📸 Screenshots  
+
+### 1. Adding & Viewing Expenses
+### Adding Expense
+![Adding Expense](Screenshots/Add_expense.png)
+### Viewing Expense
+<p align="center">
+  <img src="Screenshots/View_expenses.png" width="45%">
+  <img src="Screenshots/View_expenses.png" width="45%">
+</p>
+
+### 2. Expense Summary  
+![Summary](Screenshots/View_summary.png)  
+
+### 3. Spending Visualization  
+![Chart](Screenshots/chart.png)  
+
+### 4. Excel Export  
+![Excel Export](Screenshots/Export_to_excel.png) 
+### Viewing Table In Excel
+![Excel Table](Screenshots/excel.png)
