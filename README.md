@@ -22,3 +22,9 @@ A simple **Python-based expense tracker** that allows users to log, view, delete
 1. Clone the repository:
 ```bash
 git clone https://github.com/Naan3/ExpenseTracker.git
+```
+2. Install required packages
+```bash
+pip install pandas matplotlib tabulate colorama
+```
+3. Run the program 
