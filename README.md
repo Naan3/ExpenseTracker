@@ -37,7 +37,7 @@ pip install pandas matplotlib tabulate colorama
 ### Viewing Expense
 <p align="center">
   <img src="Screenshots/View_expenses.png" width="45%">
-  <img src="Screenshots/View_expenses.png" width="45%">
+  <img src="Screenshots/View_expenses_extended.png" width="45%">
 </p>
 
 ### 2. Expense Summary  
